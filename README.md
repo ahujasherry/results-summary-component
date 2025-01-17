@@ -1,1 +1,1 @@
-This is a results summary component build in Typescript
+This is a results summary component build using Typescript
