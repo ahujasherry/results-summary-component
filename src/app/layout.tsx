@@ -15,15 +15,15 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Frontend Mentor - Results summary component",
+  title: "Results summary component",
   description:
-    "This website is a solution for the Results summary component challenge on Frontend Mentor. It is built with Next.js and Tailwind CSS. Coded by Arda Eker.",
+    "This website is a solution. It is built with Next.js and Tailwind CSS.",
   authors: {
-    name: "Arda Eker",
-    url: "https://github.com/ardaeker",
+    name: "Sherry Ahuja",
+    url: "https://github.com/ahujasherry",
   },
   keywords: [
-    "Frontend Mentor",
+    "Sherry Ahuja",
     "Results summary component",
     "Results summary component solution",
     "Results summary component challenge",
@@ -34,12 +34,12 @@ export const metadata: Metadata = {
     "Arda Eker",
   ],
   metadataBase: new URL(
-    "https://results-summary-component-gamma-blue.vercel.app/"
+    "https://results-summary-component-dun-three.vercel.app/"
   ),
   openGraph: {
-    title: "Frontend Mentor - Results summary component",
+    title: "Results summary component",
     description:
-      "This website is a solution to the Results summary component challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.",
+      "This website is a solution . It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Sherry Ahuja.",
     siteName: "Frontend Mentor - Results summary component",
     images: [
       {
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: "https://results-summary-component-gamma-blue.vercel.app",
+    canonical: "https://results-summary-component-dun-three.vercel.app/",
   },
   icons: {
     icon: "/favicon.png",
